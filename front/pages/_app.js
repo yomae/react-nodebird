@@ -11,6 +11,7 @@ const Nodebird = ({ Component }) => {
   return (
     <>
       <Head>
+        <meta charSet="utf-8" />
         <title>Nodebird</title>
       </Head>
       <Component />
